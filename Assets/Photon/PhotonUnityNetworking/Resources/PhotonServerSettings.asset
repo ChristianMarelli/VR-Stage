@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: e8845b5b-3aba-48bf-a523-7145474c7fbe
+    AppIdFusion: 
+    AppIdChat: 4f44afe0-b515-44dd-8b5a-ac2e78845db6
+    AppIdVoice: c0286d2d-a802-4277-b7d4-c13fa9228815
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: eu
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - CantHearYou
+  - ChangeColour
+  - ClickRpc
+  - DestroyRpc
+  - HeresWhy
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - Mute
+  - MuteRPC
+  - mutePlayerRPC
+  - Ray
+  - Linea
+  - RayD
+  - RayS
+  - Place
+  - Update
+  - Meas
+  - Line
+  - ShowNotify
+  - RayOff
+  - LineOff
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

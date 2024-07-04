@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 0be6b617c33798b42b79faba1578b24b
+  - enabled: 1
+    path: Assets/Scenes/TeacherLobby.unity
+    guid: 966ed0b0502c1a84591eddcbb0f7cee9
+  - enabled: 1
+    path: Assets/Scenes/StudentLobby.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/GenericRoom.unity
+    guid: a5f7a180cf495bf47a90ee71e5f5f7ed
+  - enabled: 1
+    path: Assets/Scenes/SolarSystemRoom.unity
+    guid: 471ee80df84cc534a8cb200f8c9a4441
+  - enabled: 1
+    path: Assets/Scenes/ProvaModelli.unity
+    guid: 864aed469835b6747a0a790dee9b0698
+  - enabled: 0
+    path: Assets/Photon/PhotonVoice/Demos/DemoVoicePun/DemoVoicePun-Scene.unity
+    guid: a3f3c3b3816924199acba595045624d2
+  - enabled: 0
+    path: Assets/Scenes/MultiClientAudioTest.unity
+    guid: 022abdbe987837c4c9082bce13c9f18d
+  - enabled: 0
+    path: Assets/Scenes/AudioTest.unity
+    guid: e9d5ac5fb05385d4aa0245ea467a6030
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 86ce9810e54195747a7f25e780e199b1,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7db3c3f83532ec94bb0ce8d0892a0dc6,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ae1c21e041618d441adf0bde38e79380,
+      type: 2}
